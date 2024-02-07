@@ -59,7 +59,7 @@
 
 /* Begin PBXFileReference section */
 		1A2296ED2B7253EA00FEF421 /* Experimentation.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Experimentation.entitlements; sourceTree = "<group>"; };
-		1A2296EE2B725E8A00FEF421 /* PushScript.bsh */ = {isa = PBXFileReference; explicitFileType = text.script.sh; path = PushScript.bsh; sourceTree = "<group>"; };
+		1A2296EE2B725E8A00FEF421 /* PushScript.sh */ = {isa = PBXFileReference; explicitFileType = text.script.sh; path = PushScript.sh; sourceTree = "<group>"; };
 		1A731CF82B5010AC00146F77 /* TextShader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextShader.swift; sourceTree = "<group>"; };
 		1A731CFA2B5010CA00146F77 /* StripeShader.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = StripeShader.metal; sourceTree = "<group>"; };
 		1A79C7D62B5402B400B49804 /* PlussingYourApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlussingYourApp.swift; sourceTree = "<group>"; };
@@ -123,7 +123,7 @@
 				1A79C7EB2B5946EB00B49804 /* MatchLiveScoreLiveActivity.swift */,
 				1AA787202B70F3F100A8CA2C /* ActivityManager.swift */,
 				1A79C7FB2B59474D00B49804 /* MatchLiveScoreAttributes.swift */,
-				1A2296EE2B725E8A00FEF421 /* PushScript.bsh */,
+				1A2296EE2B725E8A00FEF421 /* PushScript.sh */,
 				1A79C7ED2B5946EB00B49804 /* MatchLiveScore.swift */,
 				1A79C7EF2B5946EB00B49804 /* AppIntent.swift */,
 				1A79C7F12B5946EF00B49804 /* Assets.xcassets */,
